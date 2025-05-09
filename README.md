@@ -68,7 +68,6 @@ MongoDB | MySQL | Supabase
 ---
 
 ### 📊 GitHub Stats & Activity
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4719152" style="border:none;"></iframe>
 
 ![](https://komarev.com/ghpvc/?username=cybruGhost)
 
