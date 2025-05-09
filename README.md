@@ -74,10 +74,10 @@ MongoDB | MySQL | Supabase
 <img src="https://tryhackme-badges.s3.amazonaws.com/cybruGhost.png" alt="Your Image Badge" />
 
 
- <div style="display: flex; justify-content: left; align-items: left; gap: 100px;">
-   <img src="https://api.githubtrends.io/user/svg/cybruGhost/langs?time_range=one_year&theme=dark" alt="Gift's LangStat"/>
-   <img src="https://api.githubtrends.io/user/svg/cybruGhost/repos?time_range=one_year&group=other&theme=dark"/>
-   
+<div style="display: flex; justify-content: left; align-items: left; gap: 100px;">
+  <img src="https://api.githubtrends.io/user/svg/cybruGhost/langs?time_range=half_year&theme=dark" alt="cybruGhost's LangStat"/>
+  <img src="https://api.githubtrends.io/user/svg/cybruGhost/repos?time_range=half_year&group=other&theme=dark" alt="cybruGhost's Repo Activity"/>
 </div>
+
 I'm always eager to learn and collaborate.  
 Feel free to reach out and connect! 🤝
