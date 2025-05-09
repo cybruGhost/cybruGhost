@@ -72,7 +72,7 @@ MongoDB | MySQL | Supabase
 
 ![](https://komarev.com/ghpvc/?username=cybruGhost)
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/0xodus.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/cybruGhost.png" alt="Your Image Badge" />
 
 
  <div style="display: flex; justify-content: left; align-items: left; gap: 100px;">
