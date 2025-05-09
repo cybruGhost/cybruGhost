@@ -40,10 +40,10 @@
 
 ## 🛠 Featured Projects
 
-- 🎥 **The Cube** – React movie streamer  
-- 🎶 **Cubic Music** – Modern Android music player  
-- 📦 **Cubic Ripper** – Audio/video extractor *(Coming soon)*  
-- 🤖 **Jennie AI** – AI assistant *(In dev)*  
+- 🎥 **The Cube** – React movie streamer both app and web  
+- 🎶 **Cubic Music** – Modern Android music player(innertube)  
+- 📦 **Cubic Ripper** – Audio/video extractor *(finished)*  
+- 🤖 **Jennie AI** – AI assistant *(python)*  
 - 🐍 **Snake Game** – Retro arcade with UI twist  
 - 📍 **KeAttractions** – Travel mini web app
 
