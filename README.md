@@ -1,100 +1,116 @@
-## 👋 Hello, World!
+<!-- Cyberpunk Mode Activated -->
 
-I'm **CyberGhost 👻** — a curious mind driven by code, creativity, and clean design.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Welcome+to+CybruGhost's+Domain;Developer+%7C+Hacker+%7C+Visionary;Inspire+or+Expire" alt="Typing SVG" />
+</p>
 
-> **Code Alchemist | UI/UX Artisan | System Tinkerer | Full-Time Dreamer**
+<h1 align="center">
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="70">
+  <span style="color:#00FFC6;">CybruGhost</span>
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="70">
+</h1>
 
-I build, break, and rebuild — all to make the digital world smoother, smarter, and more accessible.  
-🧠 _"Addicted to Schedule 1"_ — whatever it takes to push the boundaries.
-
----
-
-### 🚀 About Me
-
-- 🔭 Currently crafting innovative, mind-blowing tech projects  
-- 🌱 Diving deep into: `C++`, `Java`, `React`, `Django`, `Dart`, `Kotlin`  
-- 🎨 Obsessive about: UI/UX, clean code, system performance, and simplicity  
-- 🛠️ I redesign clones into better, open, and free alternatives  
-- 🎓 Undergrad in Mathematics & Information Science  
-- 🐧 Linux wizard & terminal native  
-- 🔐 Cybersecurity enthusiast | 🤖 AI integrator | 📲 App developer  
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Inspire%20or%20Expire-FF0055?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=000000">
+  <img src="https://img.shields.io/badge/Hack-Fearless-8A2BE2?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=000000">
+  <img src="https://img.shields.io/badge/Build-The%20Future-1E90FF?style=for-the-badge&logo=android&logoColor=white&labelColor=000000">
+</p>
 
 ---
 
-### 🌟 Featured Projects
+## 🧠 Who Am I
 
-| 🚧 Project             | 💡 Description                                   | 🔗 Status / Link     |
-|------------------------|--------------------------------------------------|-----------------------|
-| **Cubic Ripper**        | Elegant video/audio extractor                   | `Coming Soon`         |
-| **The Cube APK**        | Android movie player for offline streaming      | `Download via site`   |
-| **Cubic Music**         | Clean & customizable Android music player       | `Download via site`   |
-| **Jennie AI**           | Personalized AI assistant (Jarvis-style)        | `In Development`      |
-| **The Cub 4**           | React-based movie streaming website             | `Live` / `Netlify`    |
-| **Snake Game**          | Retro snake game with modern CSS flair          | `Playable`            |
-| **YouTube Premium Mod** | Enhanced YouTube experience (UI improvement)    | `Private Clone`       |
-| **KeAttractions**       | Kenyan travel and tourism guide                 | `Private Beta`        |
-| **TMDB Trailer Site**   | Trailer site using TMDB API                     | `In Progress`         |
-| **Chat WebApp**         | Lightweight real-time chat web app              | `Testing`             |
+> *Code Alchemist | UI/UX Artisan | Cybersecurity Lover*
+
+- ⚡ Cyber Architect | Ethical Hacker | App Dev
+- 👨‍🎓 Mathematics & Info Science student  
+- 🧤 Always building. Always learning.
+- 🌌 Dreaming in Code. Waking in Innovation.
+- 🎯 I don’t predict the future — I **create** it.
 
 ---
 
-### 🧠 Currently Exploring
+## ⚙️ Tech Stack
 
-- 🌐 Django + React hybrid web apps  
-- 🔥 Firebase & Supabase for real-time databases  
-- 🎥 React Native animations  
-- 🤖 AI-infused chat apps  
-- 🧩 APK decompilation & Android UI mods  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,kotlin,java,javascript,dart,html,css,react,androidstudio,firebase,figma,git,linux,vscode" />
+</p>
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠 Featured Projects
 
-#### 📌 Languages
-`C++` • `Java` • `Dart` • `Kotlin` • `JavaScript` • `Python` • `HTML` • `CSS`
-
-#### 🧰 Tools & Frameworks
-`React` • `Next.js` • `Node.js` • `Django` • `Flask` • `Firebase` • `Supabase` • `Bootstrap`  
-`VSCode` • `Git` • `Linux Terminal` • `Figma`
-
-#### 🗃️ Databases
-`MongoDB` • `MySQL` • `Supabase` • `Firebase`
+- 🎥 **The Cube** – React movie streamer  
+- 🎶 **Cubic Music** – Modern Android music player  
+- 📦 **Cubic Ripper** – Audio/video extractor *(Coming soon)*  
+- 🤖 **Jennie AI** – AI assistant *(In dev)*  
+- 🐍 **Snake Game** – Retro arcade with UI twist  
+- 📍 **KeAttractions** – Travel mini web app
 
 ---
 
-### 📈 GitHub Contributions
+## 🚀 GitHub Power Stats
 
-![cybruGhost's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=cybruGhost&theme=react-dark&hide_border=true)
-
-![cybruGhost's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cybruGhost&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cybruGhost&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-### 🏆 Achievements & Certifications
-
-#### 🎖️ TryHackMe Profile
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4719152" style='border:none; width:100%; height:200px;'></iframe>
-
-#### 🛡️ Cybersecurity Badges
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/cybruGhost.png" alt="TryHackMe Badge" width="200"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CybruGhost&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CybruGhost&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" width="48%" />
+</p>
 
 ---
 
-### 📊 GitHub Trends
+## 🔥 Contribution Streak
 
-<div align="center" style="margin-top: 20px;">
-  <img src="https://api.githubtrends.io/user/svg/cybruGhost/langs?time_range=half_year&theme=dark" width="400" alt="Language Trends"/>
-  <img src="https://api.githubtrends.io/user/svg/cybruGhost/repos?time_range=half_year&group=other&theme=dark" width="400" alt="Repo Trends"/>
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=CybruGhost&theme=tokyonight&hide_border=true&border_radius=8&fire=DD2727&ring=FF0055&currStreakLabel=00FFAA" />
+</p>
 
 ---
 
-### 🤝 Let's Connect!
+## 🧠 TryHackMe Badge
 
-💬 Always open to discussions, collaborations, or just geeking out about tech.  
-📬 DM me or open an issue on any of my repositories.
+<p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/cybruGhost.png" alt="TryHackMe Badge" width="170" />
+</p>
 
-> _"Built for impact, fueled by curiosity."_ 🔥
+---
+
+## 📈 Futuristic Metrics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CybruGhost&theme=github_dark" width="90%"/>
+</p>
+
+---
+
+## 🧭 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CybruGhost&theme=tokyo-night&hide_border=true" width="100%"/>
+</p>
+
+---
+
+## 🎯 Cyber Quotes
+
+> "**The ones who are crazy enough to think they can change the world, are the ones who do.**"  
+> "**In a world of chaos, be the silent storm.**"
+
+---
+
+## 👁 Visitor Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CybruGhost&label=Profile%20views&color=00FF00&style=flat-square" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=4000&pause=1000&color=00FFC6&center=true&vCenter=true&width=600&lines=I+am+Code.;I+am+the+Storm.;I+am+CybruGhost." alt="Neon Typing SVG" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Thank%20You%20for%20Visiting!&fontAlignY=40&desc=Keep%20Coding%20Like%20a%20Ghost!&descAlignY=65&color=gradient&fontColor=00FFC6" />
+</p>
