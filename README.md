@@ -68,16 +68,11 @@ MongoDB | MySQL | Supabase
 ---
 
 ### 📊 GitHub Stats & Activity
-<!-- GitHub Profile Views Badge (Optional) -->
-<!-- Removed: <img src="https://komarev.com/ghpvc/?username=ybtuti"> -->
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4719152" style="border:none;"></iframe>
 
-<!-- TryHackMe Badge (Iframe-based) -->
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4719152" style="border: none; width: 340px; height: 300px;"></iframe>
-
-<!-- GitHub Trends Stats -->
 <div style="display: flex; justify-content: left; align-items: left; gap: 100px;">
-  <img src="https://api.githubtrends.io/user/svg/ybtuti/langs?time_range=one_year&theme=dark" alt="Gift's LangStat"/>
-  <img src="https://api.githubtrends.io/user/svg/ybtuti/repos?time_range=one_year&group=other&theme=dark"/>
+  <img src="https://api.githubtrends.io/user/svg/cybruGhost/langs?time_range=one_year&theme=dark" alt="cybruGhost's LangStat"/>
+  <img src="https://api.githubtrends.io/user/svg/cybruGhost/repos?time_range=one_year&group=other&theme=dark" alt="cybruGhost's Repo Activity"/>
 </div>
 
 I'm always eager to learn and collaborate.  
