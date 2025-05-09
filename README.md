@@ -1,83 +1,100 @@
-## Hi there 👋
+## 👋 Hello, World!
 
-<!--
-**cybruGhost/cybruGhost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+I'm **CyberGhost 👻** — a curious mind driven by code, creativity, and clean design.
 
-Hey there, I'm **CyberGhost 👻**
+> **Code Alchemist | UI/UX Artisan | System Tinkerer | Full-Time Dreamer**
 
-**Code Alchemist | UI/UX Lover | Systems Tinkerer | Full-Time Dreamer**  
-I clone, build, improve — and give it all for free.  
-🧠 *Addicted to Schedule 1*
+I build, break, and rebuild — all to make the digital world smoother, smarter, and more accessible.  
+🧠 _"Addicted to Schedule 1"_ — whatever it takes to push the boundaries.
 
 ---
 
 ### 🚀 About Me
 
-- 🔥 Currently working on mind-blowing, innovative projects  
-- 🌱 Learning: C++, Java, React, Django, Dart, Kotlin  
-- 🎨 Passionate about: UI/UX, Web & App Development, System Enhancements  
-- 🛠️ I redesign clones and transform them into better, free versions  
-- 🎓 Student of Mathematics & Information Science  
-- 🐧 Hardcore Linux user  
-- 🔐 Cybersecurity lover  
-- 🤖 AI enthusiast and tinkerer  
-- 🧠 Good at managing Supabase databases and working with real-time systems  
+- 🔭 Currently crafting innovative, mind-blowing tech projects  
+- 🌱 Diving deep into: `C++`, `Java`, `React`, `Django`, `Dart`, `Kotlin`  
+- 🎨 Obsessive about: UI/UX, clean code, system performance, and simplicity  
+- 🛠️ I redesign clones into better, open, and free alternatives  
+- 🎓 Undergrad in Mathematics & Information Science  
+- 🐧 Linux wizard & terminal native  
+- 🔐 Cybersecurity enthusiast | 🤖 AI integrator | 📲 App developer  
 
 ---
 
-### 🌐 Featured Projects & Apps
+### 🌟 Featured Projects
 
-| Project               | Description                                      | Link                |
-|-----------------------|--------------------------------------------------|---------------------|
-| The Cub 4             | React-based movie streaming site                | Vercel / Netlify    |
-| The Cube APK          | Android movie player (Download from website)    | Download            |
-| Cubic Music           | Android music player (Download from website)    | Download            |
-| Cubic Ripper          | Video/Audio extractor with a clean interface    | Coming Soon         |
-| Jennie AI             | Personal predefined AI assistant (Jarvis-style) | In Development      |
-| KeAttractions         | Kenya travel & attractions guide                | Private Beta        |
-| Custom Chat WebApp    | Simple & beautiful web chat app                 | Testing             |
-| YouTube Premium Mod   | Enhanced YouTube clone                          | Private Clone       |
-| Snake Game            | Retro snake game with modern styling            | Play it             |
-| TMDB Trailer Site     | Movie trailers via TMDB API                     | Ongoing Project     |
+| 🚧 Project             | 💡 Description                                   | 🔗 Status / Link     |
+|------------------------|--------------------------------------------------|-----------------------|
+| **Cubic Ripper**        | Elegant video/audio extractor                   | `Coming Soon`         |
+| **The Cube APK**        | Android movie player for offline streaming      | `Download via site`   |
+| **Cubic Music**         | Clean & customizable Android music player       | `Download via site`   |
+| **Jennie AI**           | Personalized AI assistant (Jarvis-style)        | `In Development`      |
+| **The Cub 4**           | React-based movie streaming website             | `Live` / `Netlify`    |
+| **Snake Game**          | Retro snake game with modern CSS flair          | `Playable`            |
+| **YouTube Premium Mod** | Enhanced YouTube experience (UI improvement)    | `Private Clone`       |
+| **KeAttractions**       | Kenyan travel and tourism guide                 | `Private Beta`        |
+| **TMDB Trailer Site**   | Trailer site using TMDB API                     | `In Progress`         |
+| **Chat WebApp**         | Lightweight real-time chat web app              | `Testing`             |
 
 ---
 
 ### 🧠 Currently Exploring
 
-- Django for backend development  
-- Firebase and Supabase for scalable apps  
-- Animations in React Native  
-- Real-time chat & AI integration  
-- Android app decompiling and customization  
+- 🌐 Django + React hybrid web apps  
+- 🔥 Firebase & Supabase for real-time databases  
+- 🎥 React Native animations  
+- 🤖 AI-infused chat apps  
+- 🧩 APK decompilation & Android UI mods  
 
 ---
 
 ### 🛠️ Tech Stack
 
-#### 💻 Programming Languages
-C++ | Java | Dart | Kotlin | JavaScript | Python | HTML | CSS  
+#### 📌 Languages
+`C++` • `Java` • `Dart` • `Kotlin` • `JavaScript` • `Python` • `HTML` • `CSS`
 
-#### ⚙️ Frameworks, Tools & Libraries
-React.js | Django | Flask | Node.js | Next.js  
-Bootstrap | Supabase | Firebase | VSCode | Git | Terminal  
+#### 🧰 Tools & Frameworks
+`React` • `Next.js` • `Node.js` • `Django` • `Flask` • `Firebase` • `Supabase` • `Bootstrap`  
+`VSCode` • `Git` • `Linux Terminal` • `Figma`
 
-#### 🗄️ Databases
-MongoDB | MySQL | Supabase  
+#### 🗃️ Databases
+`MongoDB` • `MySQL` • `Supabase` • `Firebase`
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 📈 GitHub Contributions
 
-![](https://komarev.com/ghpvc/?username=cybruGhost)
+![cybruGhost's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=cybruGhost&theme=react-dark&hide_border=true)
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/cybruGhost.png" alt="Your Image Badge" />
+![cybruGhost's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cybruGhost&show_icons=true&theme=tokyonight&hide_border=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cybruGhost&layout=compact&theme=tokyonight&hide_border=true)
 
-<div style="display: flex; justify-content: left; align-items: left; gap: 100px;">
-  <img src="https://api.githubtrends.io/user/svg/cybruGhost/langs?time_range=half_year&theme=dark" alt="cybruGhost's LangStat"/>
-  <img src="https://api.githubtrends.io/user/svg/cybruGhost/repos?time_range=half_year&group=other&theme=dark" alt="cybruGhost's Repo Activity"/>
+---
+
+### 🏆 Achievements & Certifications
+
+#### 🎖️ TryHackMe Profile
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4719152" style='border:none; width:100%; height:200px;'></iframe>
+
+#### 🛡️ Cybersecurity Badges
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/cybruGhost.png" alt="TryHackMe Badge" width="200"/>
+
+---
+
+### 📊 GitHub Trends
+
+<div align="center" style="margin-top: 20px;">
+  <img src="https://api.githubtrends.io/user/svg/cybruGhost/langs?time_range=half_year&theme=dark" width="400" alt="Language Trends"/>
+  <img src="https://api.githubtrends.io/user/svg/cybruGhost/repos?time_range=half_year&group=other&theme=dark" width="400" alt="Repo Trends"/>
 </div>
 
-I'm always eager to learn and collaborate.  
-Feel free to reach out and connect! 🤝
+---
+
+### 🤝 Let's Connect!
+
+💬 Always open to discussions, collaborations, or just geeking out about tech.  
+📬 DM me or open an issue on any of my repositories.
+
+> _"Built for impact, fueled by curiosity."_ 🔥
