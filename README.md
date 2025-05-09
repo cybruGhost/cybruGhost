@@ -71,12 +71,7 @@ MongoDB | MySQL | Supabase
 
 ![](https://komarev.com/ghpvc/?username=cybruGhost)
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/cybruGhost.png" alt="TryHackMe">
-
-<div style="display: flex; justify-content: left; align-items: left; gap: 100px;">
-   <img src="https://api.githubtrends.io/user/svg/cybruGhost/langs?time_range=one_year&theme=dark" alt="Ghost's LangStat"/>
-   <img src="https://api.githubtrends.io/user/svg/cybruGhost/repos?time_range=one_year&group=other&theme=dark"/>
-</div>
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4719152" style='border:none;'></iframe>
 
 ---
 
