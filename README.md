@@ -70,10 +70,15 @@ MongoDB | MySQL | Supabase
 ### 📊 GitHub Stats & Activity
 <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4719152" style="border:none;"></iframe>
 
-<div style="display: flex; justify-content: left; align-items: left; gap: 100px;">
-  <img src="https://api.githubtrends.io/user/svg/cybruGhost/langs?time_range=one_year&theme=dark" alt="cybruGhost's LangStat"/>
-  <img src="https://api.githubtrends.io/user/svg/cybruGhost/repos?time_range=one_year&group=other&theme=dark" alt="cybruGhost's Repo Activity"/>
-</div>
+![](https://komarev.com/ghpvc/?username=cybruGhost)
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/0xodus.png" alt="TryHackMe">
+
+
+ <div style="display: flex; justify-content: left; align-items: left; gap: 100px;">
+   <img src="https://api.githubtrends.io/user/svg/ybtuti/langs?time_range=one_year&theme=dark" alt="Gift's LangStat"/>
+   <img src="https://api.githubtrends.io/user/svg/ybtuti/repos?time_range=one_year&group=other&theme=dark"/>
+   
+</div>
 I'm always eager to learn and collaborate.  
 Feel free to reach out and connect! 🤝
