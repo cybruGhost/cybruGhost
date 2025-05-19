@@ -97,7 +97,7 @@
     <img alt="Dashboard stats of @cybruGhost" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=83333147&image_size=auto&color_scheme=light" width="771" height="auto">
   </picture>
     <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=cybrughost&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+    <img src="https://komarev.com/ghpvc/?username=cybruGhost&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
   </p> 
 </div>
 
