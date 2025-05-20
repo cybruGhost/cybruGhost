@@ -1,4 +1,4 @@
-<!-- Cyberpunk Mode Activated -->
+<!-- ⚡ Cyberpunk Mode: Engaged -->
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Welcome+to+CybruGhost's+Domain;Developer+%7C+Hacker+%7C+Visionary;Inspire+or+Expire" alt="Typing SVG" />
@@ -18,19 +18,19 @@
 
 ---
 
-## 🧠 Who Am I
+## 🧠 Who is CybruGhost?
 
-> *Code Alchemist | UI/UX Artisan | Cybersecurity Lover*
+> *Code Alchemist ⚗ | UI/UX Artisan 🎨 | Cybersecurity Enthusiast 🛡*
 
-- ⚡ Cyber Architect | Ethical Hacker | App Dev  
-- 👨‍🎓 Mathematics & Info Science student  
-- 🧤 Always building. Always learning.  
-- 🌌 Dreaming in Code. Waking in Innovation.  
-- 🎯 I don’t predict the future — I **create** it.
+- ⚡ Cyber Architect | Ethical Hacker | Mobile & Web Dev  
+- 👨‍🎓 Mathematics + Information Science Student  
+- 🛠 Forever Building. Forever Learning.  
+- 🌌 Dreaming in Code, Awakening in Innovation  
+- 🎯 I don't just predict the future — I **engineer** it.
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Tech Arsenal
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,kotlin,java,javascript,dart,html,css,react,androidstudio,firebase,figma,git,linux,vscode" />
@@ -38,22 +38,24 @@
 
 ---
 
-## 🛠 Featured Projects
+## 🚧 Featured Projects
 
-- 🎥 **The Cube** – React movie streamer (app & web)  
-- 🎶 **Cubic Music** – Modern Android music player (innertube)  
-- 📦 **Cubic Ripper** – Audio/video extractor *(finished)*  
-- 🤖 **Jennie AI** – AI assistant *(Python)*  
-- 🐍 **Snake Game** – Retro arcade with UI twist  
-- 📍 **KeAttractions** – Travel mini web app
+| Project        | Description                                 |
+|----------------|---------------------------------------------|
+| 🎥 **The Cube**      | React-powered movie streamer (Web & App)     |
+| 🎶 **Cubic Music**   | Android music player powered by Innertube   |
+| 📦 **Cubic Ripper**  | Audio/video extractor *(Complete)*         |
+| 🤖 **Jennie AI**     | Python-based AI assistant                |
+| 🐍 **Snake Game**    | Retro arcade with a modern UI twist      |
+| 📍 **KeAttractions** | Travel companion web app                |
 
 ---
 
 ## 🚀 GitHub Power Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cybruGhost&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybruGhost&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CybruGhost&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CybruGhost&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" width="48%" />
 </p>
 
 ---
@@ -61,12 +63,12 @@
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=cybruGhost&theme=tokyonight&hide_border=true&border_radius=8&fire=DD2727&ring=FF0055&currStreakLabel=00FFAA" />
+  <img src="https://streak-stats.demolab.com?user=CybruGhost&theme=tokyonight&hide_border=true&border_radius=8&fire=DD2727&ring=FF0055&currStreakLabel=00FFAA" />
 </p>
 
 ---
 
-## 🧠 TryHackMe Badge
+## 🧠 TryHackMe Warrior
 
 <p align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/cybruGhost.png" alt="TryHackMe Badge" width="170" />
@@ -77,7 +79,7 @@
 ## 📊 Futuristic Metrics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cybruGhost&theme=matrix&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CybruGhost&theme=github_dark" width="90%" />
 </p>
 
 ---
@@ -85,22 +87,22 @@
 ## 📈 Activity Pulse
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=cybruGhost&theme=tokyo-night&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CybruGhost&theme=tokyo-night&hide_border=true" width="100%" />
 </p>
 
 ---
 
-## 🎯 Cyber Quotes
+## 🧠 Cyber Quotes
 
-> "**The ones who are crazy enough to think they can change the world, are the ones who do.**"  
-> "**In a world of chaos, be the silent storm.**"
+> "The ones who are crazy enough to think they can change the world, are the ones who do."  
+> "In a world of chaos, be the silent storm."
 
 ---
 
-## 👁 Visitor Counter
+## 👁 Visitor Radar
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cybruGhost&label=Profile%20views&color=00FF00&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=CybruGhost&label=Profile%20views&color=00FF00&style=flat-square" />
 </p>
 
 ---
