@@ -89,8 +89,6 @@
 </p>
 
 ---
-
-**REST | gRPC | System Design | API Architecture | CI/CD | Firebase Auth | Web Scraping | Background Task Runners | JWT | SQLite | Linux**
 ## 🎯 Cyber Quotes
 
 > "**The ones who are crazy enough to think they can change the world, are the ones who do.**"  
