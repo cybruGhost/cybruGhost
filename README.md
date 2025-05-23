@@ -17,7 +17,10 @@
 </p>
 
 ---
+<div align ="center">
 
+snake gif
+</div>
 ## 🧠 Who is CybruGhost?
 
 > *Code Alchemist ⚗ | UI/UX Artisan 🎨 | Cybersecurity Enthusiast 🛡*
