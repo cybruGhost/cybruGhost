@@ -19,7 +19,8 @@
 ---
 <div align ="center">
 
-snake gif
+![snake gif](https://github.com/chayotic/chayotic/blob/output/github-snake-dark.svg)
+
 </div>
 ## 🧠 Who is CybruGhost?
 
