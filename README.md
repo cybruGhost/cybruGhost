@@ -30,7 +30,7 @@
 - 👨‍🎓 Mathematics + Information Science Student  
 - 🛠 Forever Building. Forever Learning.  
 - 🌌 Dreaming in Code, Awakening in Innovation  
-- � I don't just predict the future — I **engineer** it.
+- 🎯 I don't just predict the future — I **engineer** it.
 
 ---
 
@@ -106,7 +106,7 @@
 ## 👁 Visitor Radar
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile%20views-1000+-00FF00?style=flat-square" alt="Visitor counter" />
+  <img src="https://komarev.com/ghpvc/?username=CybruGhost&label=Profile%20views&color=00FF00&style=flat-square" />
 </p>
 
 ---
