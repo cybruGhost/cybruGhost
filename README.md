@@ -31,7 +31,7 @@
 - 📚 Undergraduate in Mathematics & Information Science  
 - 🔐 Passionate about security engineering and ethical hacking  
 - 💡 Specializing in scalable web/mobile systems and automation tools  
-- 🎯 Committed to building intelligent, secure, and user-friendly technology
+- 🎯 also I look forward to build or advance other projects(what matters is that they work)
 
 ---
 
