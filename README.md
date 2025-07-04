@@ -112,6 +112,5 @@
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Thanks%20for%20visiting%20CybruGhost's%20Portfolio&fontAlignY=40&desc=Let's%20Build%20Something%20Remarkable&descAlignY=65&color=gradient&fontColor=00FFC6" />
-</p>
+<p align="center">  
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Thank%20You%20for%20Visiting!&fontAlignY=40&desc=Build%20Something%20Remarkable!&descAlignY=65&color=gradient&fontColor=00FFC6" />  
