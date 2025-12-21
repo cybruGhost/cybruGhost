@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Welcome+to+CybruGhost's+Portfolio;Developer+|+Security+Researcher+|+Technologist" alt="Typing SVG" />
 </p>
-
+![GitHub Streak](https://streak-stats.demolab.com?user=CybruGhost&theme=tokyonight&hide_border=true&border_radius=8&fire=DD2727&ring=FF0055&currStreakLabel=00FFAA)
 <h1 align="center">
   <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="70">
   <span style="color:#00FFC6;">CybruGhost</span>
