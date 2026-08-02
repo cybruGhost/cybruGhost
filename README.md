@@ -6,7 +6,15 @@
   <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="70">
 </h1>
 
+---
 
+## 🗺️ Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CybruGhost&theme=tokyo-night&hide_border=true" width="100%" />
+</p>
+
+---
 
 ---
 
@@ -26,14 +34,6 @@
   <img src="https://skillicons.dev/icons?i=python,kotlin,java,javascript,dart,html,css,react,androidstudio,firebase,figma,git,linux,vscode" />
 </p>
 
-
-
-## 📊 GitHub Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CybruGhost&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CybruGhost&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" width="48%" />
-</p>
 
 ---
 
@@ -59,15 +59,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CybruGhost&theme=github_dark" width="90%" />
 </p>
 
----
 
-## 🗺️ Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CybruGhost&theme=tokyo-night&hide_border=true" width="100%" />
-</p>
-
----
 
 ## 🧩 Professional Ethos
 
