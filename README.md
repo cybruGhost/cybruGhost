@@ -8,6 +8,22 @@
 
 ---
 
+
+## 🔥 Contribution Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=CybruGhost&theme=tokyonight&hide_border=true&border_radius=8&fire=DD2727&ring=FF0055&currStreakLabel=00FFAA" />
+</p>
+---
+## 🧰 Technology Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,kotlin,java,javascript,dart,html,css,react,androidstudio,firebase,figma,git,linux,vscode" />
+</p>
+
+
+---
+
 ## 🗺️ Contribution Graph
 
 <p align="center">
@@ -25,23 +41,6 @@
 ---
 
 🎯 also I look forward to build or advance other projects(what matters is that they work)
-
----
-
-## 🧰 Technology Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,kotlin,java,javascript,dart,html,css,react,androidstudio,firebase,figma,git,linux,vscode" />
-</p>
-
-
----
-
-## 🔥 Contribution Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=CybruGhost&theme=tokyonight&hide_border=true&border_radius=8&fire=DD2727&ring=FF0055&currStreakLabel=00FFAA" />
-</p>
 
 ---
 
