@@ -51,8 +51,7 @@
 | 🎶 **Cubic Music**   | Modern Android music player using Innertube API |
 | 📦 **Cubic Ripper**  | Audio/video extraction tool *(Production Ready)*|
 | 🤖 **Jennie AI**     | Smart Python-based virtual assistant           |
-| 🐍 **Snake Game**    | Modern UI version of the classic arcade game   |
-| 📍 **KeAttractions** | Location-aware travel assistant web app        |
+
 
 ---
 
