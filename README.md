@@ -53,18 +53,10 @@
 
 ---
 
-## 📈 Profile Insights
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CybruGhost&theme=github_dark" width="90%" />
-</p>
-
-
-
 ## 🧩 Professional Ethos
 
-> "Technology should solve real problems, not create noise."  
-> "Build with intent. Secure by design. Deliver with impact."
+> "JUST BUILD"  
+> "DO SMTH"
 
 ---
 
