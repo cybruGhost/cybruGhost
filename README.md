@@ -1,8 +1,4 @@
-<!-- 🚀 CybruGhost Portfolio -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Welcome+to+CybruGhost's+Portfolio;Developer+|+Security+Researcher+|+Technologist" alt="Typing SVG" />
-</p>
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="70">
@@ -10,11 +6,7 @@
   <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="70">
 </h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-Driven%20by%20Precision-FF0055?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=000000">
-  <img src="https://img.shields.io/badge/Security-By%20Design-8A2BE2?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=000000">
-  <img src="https://img.shields.io/badge/Engineering-Future%20First-1E90FF?style=for-the-badge&logo=android&logoColor=white&labelColor=000000">
-</p>
+
 
 ---
 
@@ -24,14 +16,7 @@
 
 ---
 
-## 👤 About Me
-
-> *Software Engineer | UI/UX Designer | Cybersecurity Analyst*
-
-- 📚 Undergraduate in Mathematics & Information Science  
-- 🔐 Passionate about security engineering and ethical hacking  
-- 💡 Specializing in scalable web/mobile systems and automation tools  
-- 🎯 also I look forward to build or advance other projects(what matters is that they work)
+🎯 also I look forward to build or advance other projects(what matters is that they work)
 
 ---
 
@@ -41,19 +26,7 @@
   <img src="https://skillicons.dev/icons?i=python,kotlin,java,javascript,dart,html,css,react,androidstudio,firebase,figma,git,linux,vscode" />
 </p>
 
----
 
-## 🛠️ Notable Projects
-
-| Project        | Description                                 |
-|----------------|---------------------------------------------|
-| 🎥 **The Cube**      | A cross-platform movie streaming platform       |
-| 🎶 **Cubic Music**   | Modern Android music player using Innertube API |
-| 📦 **Cubic Ripper**  | Audio/video extraction tool *(Production Ready)*|
-| 🤖 **Jennie AI**     | Smart Python-based virtual assistant           |
-
-
----
 
 ## 📊 GitHub Metrics
 
