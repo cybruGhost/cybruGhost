@@ -1,71 +1,134 @@
 
 
-<h1 align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="70">
-  <span style="color:#00FFC6;">CybruGhost</span>
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="70">
-</h1>
 
----
+<div align="center">
 
+<img width="100%" src="https://raw.githubusercontent.com/cybruGhost/maintaincepage/main/ghost.svg" alt="G H O S T Header" />
 
-## 🔥 Contribution Activity
+<br/>
+
+<a href="https://github.com/cybruGhost"><img src="https://img.shields.io/badge/GITHUB-cybruGhost-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://github.com/cybruGhost/Cubic-Music"><img src="https://img.shields.io/badge/CUBIC_MUSIC-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /></a> <a href="https://github.com/cybruGhost/cube"><img src="https://img.shields.io/badge/THE_CUBE-Android-000000?style=for-the-badge&logo=android&logoColor=white" /></a> <a href="https://tryhackme.com/p/cybruGhost"><img src="https://img.shields.io/badge/TRYHACKME-cybruGhost-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
+
+</div>
+
+<br/>
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+
+<br/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30" /> About
+
+<img align="right" width="230" src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Coding.gif">
+
+**C Y B R U G H O S T** — designing and engineering digital products where creativity meets function.
+
+* 🧠 Focused on building **practical, real-world software** — Android apps, web platforms, automation tools, and intelligent systems.
+* 🎨 Blending **software development** with **UI/UX design instinct** to create interfaces that feel clean and effortless.
+* ⚙️ Comfortable building with Python, Kotlin, Java, JavaScript, React, Firebase, and modern Android technologies.
+* 🔐 Interested in **cybersecurity, ethical hacking, scalable systems, and secure software engineering**.
+* 💬 Always ready to build new projects or improve existing ones. What matters is that they work.
+
+<br clear="right"/>
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="28" /> Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=py,kotlin,java,js,ts,dart,html,css&theme=dark" />
+
+### Frameworks & Technologies
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,firebase,tailwind&theme=dark" />
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,linux&theme=dark" />
+
+</div>
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Puzzle%20Piece.png" width="28" /> Featured Work
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎵 Cubic Music
+
+A clean and modern Android music application built for smooth playback, downloads, lyrics, crossfade, personalization, and a polished listening experience.
+
+</td>
+<td width="50%">
+
+### 🎬 The Cube
+
+A modern Android entertainment application built around content discovery, profiles, downloads, playlists, phone support, and Android TV.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🍿 THE-CUBE Web
+
+A platform built for thrill-seekers, binge-watchers, and late-night explorers with minimal design, a powerful interface, and fast playback.
+
+</td>
+<td width="50%">
+
+### ⚽ LiveSports
+
+An upgraded sports platform designed to provide a clean and simple way to discover and access live sporting events.
+
+</td>
+</tr>
+</table>
+
+</div>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=CybruGhost&theme=tokyonight&hide_border=true&border_radius=8&fire=DD2727&ring=FF0055&currStreakLabel=00FFAA" />
 </p>
----
-## 🧰 Technology Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,kotlin,java,javascript,dart,html,css,react,androidstudio,firebase,figma,git,linux,vscode" />
-</p>
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> GitHub Analytics
 
----
+<div align="center">
 
-## 🗺️ Contribution Graph
+<img width="49%" src="https://github-readme-stats.shion.dev/api?username=cybruGhost&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=E6E6E6&icon_color=8E8E8E&text_color=C9C9C9"/>
+<img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=cybruGhost&theme=dark&hide_border=true&bg_color=0D1117&title_color=E6E6E6&text_color=C9C9C9&layout=compact"/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CybruGhost&theme=tokyo-night&hide_border=true" width="100%" />
-</p>
+<br/><br/>
 
----
+<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=cybruGhost&theme=react-dark&hide_border=true&bg_color=0D1117&color=E6E6E6&line=8E8E8E&point=FFFFFF"/>
 
----
-
-<div align ="center">
-  <img src="https://github.com/chayotic/chayotic/blob/output/github-snake-dark.svg" />
 </div>
 
----
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
-🎯 also I look forward to build or advance other projects(what matters is that they work)
+<div align="center">
 
----
+### Let's build something worth shipping.
 
-## 🧠 TryHackMe Progress
+<a href="https://github.com/cybruGhost"><img src="https://img.shields.io/badge/PROJECTS-000000?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://github.com/cybruGhost"><img src="https://img.shields.io/badge/GITHUB-cybruGhost-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-<p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/cybruGhost.png" alt="TryHackMe Badge" width="170" />
-</p>
+<br/><br/>
 
----
+<img src="https://komarev.com/ghpvc/?username=cybruGhost&style=for-the-badge&color=1a1a1a&labelColor=0D1117" />
 
-## 🧩 Professional Ethos
+<br/><br/>
 
-> "JUST BUILD"  
-> "DO SMTH"
+<sub>© C Y B R U G H O S T — Designed for developers who build, experiment, and ship.</sub>
 
----
-
-## 👁 Visitor Analytics
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CybruGhost&label=Profile%20views&color=00FF00&style=flat-square" />
-</p>
-
----
-
-<p align="center">  
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Thank%20You%20for%20Visiting!&fontAlignY=40&desc=Build%20Something%20Remarkable!&descAlignY=65&color=gradient&fontColor=00FFC6" />  
+</div>
