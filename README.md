@@ -26,7 +26,9 @@
 * 🧠 Focused on building **practical, real-world software** — Android apps, web platforms, automation tools, and intelligent systems.
 * 🎨 Blending **software development** with **UI/UX design instinct** to create interfaces that feel clean and effortless.
 * ⚙️ Comfortable building with Python, Kotlin, Java, JavaScript, React, Firebase, and modern Android technologies.
-* 🔐 Interested in **cybersecurity, ethical hacking, scalable systems, and secure software engineering**.
+- 📱 **Mobile Dev**: Advanced Android engineering (Jetpack Compose, NDK/Chaquopy).
+- 🤖 **Automation**: Python scripting, Bot development (MTProto/Telethon).
+* 🛡️ **Cybersecurity**: Penetration Testing, ethical hacking, scalable systems, and secure software engineering**.
 * 💬 Always ready to build new projects or improve existing ones. What matters is that they work.
 
 <br clear="right"/>
