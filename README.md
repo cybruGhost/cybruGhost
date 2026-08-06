@@ -21,7 +21,7 @@
 
 <img align="right" width="230" src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Coding.gif">
 
-**C Y B R U G H O S T** — designing and engineering digital products where creativity meets function.
+**C Y B R U G H O S T** — Fucking Coder
 
 * 🧠 Focused on building **practical, real-world software** — Android apps, web platforms, automation tools, and intelligent systems.
 * 🎨 Blending **software development** with **UI/UX design instinct** to create interfaces that feel clean and effortless.
