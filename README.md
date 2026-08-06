@@ -62,30 +62,30 @@
 <tr>
 <td width="50%">
 
-### 🎵 Cubic Music
+### Cubic Music
 
 A clean and modern Android music application built for smooth playback, downloads, lyrics, crossfade, personalization, and a polished listening experience.
 
 </td>
 <td width="50%">
 
-### 🎬 The Cube
+### LitLoom
 
-A modern Android entertainment application built around content discovery, profiles, downloads, playlists, phone support, and Android TV.
+A cinematic, dark, Spotify-level audiobook, ebook, and manga app built with Jetpack Compose + Material 3 + Media3 ExoPlayer.
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🍿 THE-CUBE Web
+### THE-CUBE Web
 
 A platform built for thrill-seekers, binge-watchers, and late-night explorers with minimal design, a powerful interface, and fast playback.
 
 </td>
 <td width="50%">
 
-### ⚽ LiveSports
+### LiveSports
 
 An upgraded sports platform designed to provide a clean and simple way to discover and access live sporting events.
 
