@@ -67,7 +67,7 @@
 ### Cubic Music
 
 A clean and modern Android music application built for smooth playback, downloads, lyrics, crossfade, personalization, and a polished listening experience.
-
+  <a href="https://github.com/cybruGhost/Cubic-Music/releases"><img src="https://img.shields.io/github/downloads/cybruGhost/Cubic-Music/total?style=flat-square&label=all-time%20downloads&color=2563EB" alt="All-time Cubic Music downloads" /></a>
 </td>
 <td width="50%">
 
