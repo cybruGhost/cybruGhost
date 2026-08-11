@@ -73,7 +73,7 @@ A clean and modern Android music application built for smooth playback, download
 
 ### LitLoom
 
-A cinematic, dark, Spotify-level audiobook, ebook, and manga app built with Jetpack Compose + Material 3 + Media3 ExoPlayer.
+A ebook, built with Jetpack Compose + Material 3 + Media3 ExoPlayer.
 
 </td>
 </tr>
