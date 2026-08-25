@@ -21,7 +21,7 @@
 
 <img align="right" width="230" src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Coding.gif">
 
-**C Y B R U G H O S T** — Fucking Coder
+**C Y B R U G H O S T** — I'm an outlaw, my brain has no fence
 
 * 🧠 Focused on building **practical, real-world software** — Android apps, web platforms, automation tools, and intelligent systems.
 * 🎨 Blending **software development** with **UI/UX design instinct** to create interfaces that feel clean and effortless.
