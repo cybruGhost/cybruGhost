@@ -71,9 +71,7 @@ A clean and modern Android music application built for smooth playback, download
 </td>
 <td width="50%">
 
-### LitLoom
 
-A ebook, built with Jetpack Compose + Material 3 + Media3 ExoPlayer.
 
 </td>
 </tr>
